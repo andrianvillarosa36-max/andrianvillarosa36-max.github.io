@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.andrianvillarosa36_max.twa",
+        "sha256_cert_fingerprints": ["2B:17:B8:DC:92:B1:A9:50:58:4E:E8:31:06:D4:0F:E0:05:1E:57:06:B3:BD:36:5D:84:15:6C:53:89:41:F2:E4"]
+      }
+    }]
